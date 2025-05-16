@@ -13,9 +13,7 @@ export const Projects = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-9">
             <div className="p-6 rounded-xl border border-rose-400 text-rose-400 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] hover:shadow-xl hover:bg-rose-500/10 transition-all">
-              <h3 className="texl-xl font-bold mb-2 cursor-default">
-                Pokemon Capstone
-              </h3>
+              <h3 className="texl-xl font-bold mb-2 cursor-default">Pokemon Capstone</h3>
               <p className="text-black mb-4 cursor-default">
                 Scalable cloud infastructure management with real-time scaling.
               </p>
@@ -34,7 +32,7 @@ export const Projects = () => {
                   href="#"
                   className="text-rose-400 hover:text-rose-500/40 transition-colors my-4"
                 >
-                  View Project →
+                  View Project  →
                 </a>
               </div>
             </div>
@@ -58,7 +56,7 @@ export const Projects = () => {
                   href="#"
                   className="text-rose-400 hover:text-rose-500/40 transition-colors my-4"
                 >
-                  View Project →
+                  View Project  →
                 </a>
               </div>
             </div>
@@ -82,15 +80,12 @@ export const Projects = () => {
                   href="#"
                   className="text-rose-400 hover:text-rose-500/40 transition-colors my-4"
                 >
-                  View Project →
+                  View Project  →
                 </a>
               </div>
             </div>
             <div className="p-6 rounded-xl border border-rose-400 text-rose-400 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] hover:shadow-xl hover:bg-rose-500/10 transition-all">
-              <h3 className="texl-xl font-bold mb-2 cursor-default">
-                {" "}
-                Cloud Platform
-              </h3>
+              <h3 className="texl-xl font-bold mb-2 cursor-default"> Cloud Platform</h3>
               <p className="text-black mb-4 cursor-default">
                 Scalable cloud infastructure management with real-time scaling.
               </p>
@@ -109,15 +104,12 @@ export const Projects = () => {
                   href="#"
                   className="text-rose-400 hover:text-rose-500/40 transition-colors my-4"
                 >
-                  View Project →
+                  View Project  →
                 </a>
               </div>
             </div>
             <div className="p-6 rounded-xl border border-rose-400 text-rose-400 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] hover:shadow-xl hover:bg-rose-500/10 transition-all">
-              <h3 className="texl-xl font-bold mb-2 cursor-default">
-                {" "}
-                Cloud Platform
-              </h3>
+              <h3 className="texl-xl font-bold mb-2 cursor-default"> Cloud Platform</h3>
               <p className="text-black mb-4 cursor-default">
                 Scalable cloud infastructure management with real-time scaling.
               </p>
@@ -136,15 +128,12 @@ export const Projects = () => {
                   href="#"
                   className="text-rose-400 hover:text-rose-500/40 transition-colors my-4"
                 >
-                  View Project →
+                  View Project  →
                 </a>
               </div>
             </div>
             <div className="p-6 rounded-xl border border-rose-400 text-rose-400 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] hover:shadow-xl hover:bg-rose-500/10 transition-all">
-              <h3 className="texl-xl font-bold mb-2 cursor-default">
-                {" "}
-                Cloud Platform
-              </h3>
+              <h3 className="texl-xl font-bold mb-2 cursor-default"> Cloud Platform</h3>
               <p className="text-black mb-4 cursor-default">
                 Scalable cloud infastructure management with real-time scaling.
               </p>
@@ -163,7 +152,7 @@ export const Projects = () => {
                   href="#"
                   className="text-rose-400 hover:text-rose-500/40 transition-colors my-4"
                 >
-                  View Project →
+                  View Project  →
                 </a>
               </div>
             </div>
