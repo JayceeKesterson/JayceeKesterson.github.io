@@ -41,7 +41,7 @@ export const Projects = () => {
             <div className="p-6 rounded-xl border border-rose-400 text-rose-400 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] hover:shadow-xl hover:bg-rose-500/10 transition-all">
               <h3 className="texl-xl font-bold mb-2 cursor-default">WBLA</h3>
               <p className="text-black mb-4 cursor-default">
-                A website created for a fashion brand in collaboration with around 5 other creators.
+                A website created for a fashion brand in collaboration with around 5 other partners.
               </p>
               <div className="flex flex-wrap gap-2 mb-4 ">
                 {["React", "Node.js", "AWS", "Docker"].map((tech, key) => (

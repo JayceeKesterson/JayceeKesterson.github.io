@@ -84,11 +84,12 @@ export const About = () => {
               <div className="space-y-4 text-black cursor-default">
                 <div>
                   <h4 className="font-semibold">
-                    Software Engineer at ABC Corp (2020 - Present)
+                    Oil & Gas | Cashier May 2023 - August 2023
                   </h4>
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications
+                    Managed cash drawer according to company financial
+                    policies. Assisted customers with exceptional customer
+                    service skills.
                   </p>
                 </div>
                 <div>
