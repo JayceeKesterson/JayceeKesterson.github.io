@@ -68,14 +68,13 @@ export const About = () => {
                   Two-year college level programming class with 900 hours
                   working hands-on in modern programming and web development
                   building front-end, server-side, and full-stack applications
+                </li>
+                <li>
                   Learned latest industry technologies and trends from certified
                   instructors and guest speakers in the computer science career
                   field
                 </li>
-                <li>
-                  Relevant Coursework: Dat Structures, Web Development, Cloud
-                  Computing...
-                </li>
+                <strong>Millennium High School 2021 - 2025</strong>
               </ul>
             </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all hover:bg-pink-200/70 hover:shadow-xl">
