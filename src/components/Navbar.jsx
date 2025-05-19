@@ -8,7 +8,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="mx-auto px-4">
         <div className="flex items-center justify-between h-12">
           <a href="#home" className="font-mono text-xl font-bold text-black cursor-default">
-            Jaycee<span className="text-rose-400">.tech</span>
+            Jaycee<span className="text-rose-400"></span>
           </a>
           <div
             className="w-7 h-5 relative cursor-pointer z-40 md:hidden"
